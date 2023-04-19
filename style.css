@@ -1,0 +1,35 @@
+p {
+    color: aqua;
+    font-size: 36px;
+    text-align: center;
+}
+
+section {
+    background-color: black;
+    border-radius: 10px;
+    height: 200px;
+    margin: 50px;
+    margin-top: 130px;
+}
+
+ul {
+    color: aliceblue;
+}
+
+li {
+    color: aliceblue;
+    display: inline;
+}
+
+.pon {
+    color: blue;
+}
+
+.xz {
+    color: blueviolet;
+}
+
+.pon4ik {
+    color: red;
+
+}
